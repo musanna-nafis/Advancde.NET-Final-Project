@@ -1,0 +1,43 @@
+<br><br><br>
+
+<div class="">
+  <html>
+  <body>
+        <td align="center">   
+    <div class="col-10">
+      <h1 class="text-center">Leave Requests</h1>
+  
+      <table class="table table-dark">
+        <thead>
+          <tr>
+           
+            
+            <th scope="col">Type</th>
+            <th scope="col">Start Date</th>
+            <th scope="col">End Date</th>
+            <th scope="col">Requested At</th>
+            <th scope="col">Status</th>
+           
+
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="item in post">
+                            
+                               
+                                <td>{{item.type}}</td>
+                                <td>{{item.start_time}}</td>
+                                <td>{{item.end_time}}</td>
+                                <td>{{item.request_made}}</td>
+                                <td>{{item.status}}</td>
+                               
+                            </tr>
+                        
+        </tbody>
+        
+      </table>
+      
+    </div>
+    </td>
+  </div>
+  

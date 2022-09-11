@@ -1,0 +1,12 @@
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\bin\Debug\DAL.dll.config
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\bin\Debug\DAL.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\bin\Debug\DAL.pdb
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\bin\Debug\EntityFramework.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\bin\Debug\EntityFramework.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\obj\Debug\DAL.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\DAL\obj\Debug\DAL.pdb
